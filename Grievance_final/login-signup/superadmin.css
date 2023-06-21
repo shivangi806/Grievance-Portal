@@ -1,0 +1,46 @@
+
+body{
+  background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  height: 700px;
+}
+button {
+    background-color: #4CAF50; /* Set button background color */
+    border: none; /* Remove button border */
+    color: white; /* Set button text color */
+    padding: 15px 32px; /* Add padding to button */
+    text-align: center; /* Center button text */
+    text-decoration: none; /* Remove underline from button text */
+    display: inline-block; /* Display button as inline block element */
+    font-size: 16px; /* Set font size for button text */
+    margin: 10px; /* Add margin around button */
+    cursor: pointer; /* Add pointer cursor to button */
+    
+  }
+  
+  button:hover {
+    background-color: #3e8e41; /* Change button background color on hover */
+  }
+  
+  #option1 {
+    background-color: #f44336; /* Set background color for option 1 button */
+  }
+  
+  #option2 {
+    background-color: #008CBA; /* Set background color for option 2 button */
+  }
+
+  .options{
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 150px;
+  }
+
+  img{
+    border-radius: 50%;
+    margin-top: 10px;
+    padding-top: 10px;
+  }
+  

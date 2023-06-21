@@ -1,0 +1,71 @@
+*{
+    box-sizing:border-box;
+    /*width:100%;*/
+}
+
+body{
+    border: black;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    margin: 15px 150px;
+    font-size: 17px;
+    padding: 20px;
+}
+.container{
+    margin: 0px;
+} 
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="password"],
+input[type="date"],
+select,
+textarea{
+    width:100%;
+    padding:12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+fieldset{
+    background-color:#ffff;
+    border: 1px solid lightblue;
+    border-radius: 5px;
+}
+.mainheading{
+    text-align: center;
+    font-size: 75px;
+    height: 50px;
+}
+#address textarea{
+    height:150px;
+}
+/*#cardtype,
+#cvv,
+#expdate,
+#cardnumber,
+#pincode{
+    width=100%;
+}*/
+
+input[type="submit"]{
+    background-color: skyblue;
+    color:#ffff;
+    padding: 12px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    text-align: center ;
+}
+input[type="submit"]:hover{
+    background-color:chartreuse; 
+    transition: all;
+    font-size:15px;
+}
+
+#warning{
+    color:red;
+    font-size: smaller;
+}
+.info{
+    padding: 20px;
+}

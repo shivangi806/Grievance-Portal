@@ -1,0 +1,27 @@
+
+
+.container{
+    margin: 100px;
+}
+
+.sub_container{
+    background-color:white;
+    border-radius: 20px;
+    height:500px;
+    padding-top: 20px;
+    width:1000px;
+}
+
+.heading{
+    color:rgb(52, 101, 207);
+    font-size: 30px;
+}
+
+select{
+    cursor:pointer;
+}
+
+.submit-btn{
+    margin-left: 50%;
+    /* margin-right: 10px; */
+}

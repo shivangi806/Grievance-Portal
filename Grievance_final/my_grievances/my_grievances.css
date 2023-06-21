@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    height: 300px;
+    padding: 200px 200px;
+}
+.form{
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+input[type="text"],
+input[type="submit"],
+select,
+textarea{
+    width:100%;
+    padding:12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+#submit{
+    font-size: 20px;
+    /* padding-left: 2px;
+    padding-right:2px; */
+    background-color: gold;
+}

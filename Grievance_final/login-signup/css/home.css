@@ -1,0 +1,23 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+}
+.display-4{
+    font-size: 20px;
+}
+/* .display-5{
+    font-size: 200px;
+    font-family: 'Lato', sans-serif;
+    color:white;
+} */
+.w-450{
+    width: 800px;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+
+#back{
+    float: right;
+}

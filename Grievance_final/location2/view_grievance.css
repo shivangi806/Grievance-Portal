@@ -1,0 +1,199 @@
+body {
+	background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+	font-family: system-ui;
+}
+nav{
+    /* padding: 10px; */
+    background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+    text-decoration-color: aliceblue;
+    /* float: right; */
+    /* width:150%; */
+    overflow: hidden;
+    padding-inline: 10px;
+    margin: 2px;
+    align-items: center;
+    justify-content: center;
+    /* position:fixed; */
+}
+.head{
+    background-color: white;
+    padding-bottom: 0px;
+    /* height:130px; */
+}
+#title{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	
+}
+#subtitle{
+    padding-top: 0px;
+	margin-top: 6px;
+	font-weight:400;
+}
+#title-logo{
+
+}
+.table-wrapper {
+	width: min(900px, 100% - 3rem);
+    padding-left:180px;
+	margin-bottom: 100px;
+}
+
+.grievance-info {
+    color: white;
+	align-items: center;
+	justify-content: center;
+	height: fit-content;
+}
+
+table {
+	background-color: #9ca3af;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 10%;
+    margin-bottom: auto;
+    caption-side: top;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border-collapse: collapse;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    overflow: hidden;
+}
+.caption{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+
+  
+  th {
+    height: 40px;
+    font-weight: bold;
+    color: #fff;
+    background-color:#0891b2;
+    border-radius: 10px;
+  }
+  
+  tr:hover {
+    color: #fff;
+    background-color: #4b5563;
+  }
+  
+  td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  td:hover {
+    background-color: #4b5563;
+  }
+  
+  /* Responsive table */
+  @media screen and (max-width: 600px) {
+    table {
+      width: 100%;
+    }
+    th, td {
+      display: block;
+      text-align: left;
+    }
+    th {
+      background-color: #4d9df1;
+      color: #fff;
+    }
+    tr:nth-child(even) {
+      background-color: #fff;
+    }
+    td {
+      border: none;
+      border-bottom: 1px solid #ccc;
+      position: relative;
+      padding-left: 50%;
+    }
+    td:before {
+      position: absolute;
+      left: 6px;
+      content: attr(data-th);
+      font-weight: bold;
+      width: 45%;
+      white-space: nowrap;
+    }
+  }
+
+.location{
+	color: white;
+}
+.address{
+	font-size:smaller;
+	color:rgb(218, 218, 23);
+}
+
+.my-5{
+	color: aliceblue;
+}
+
+footer{
+	background-color: rgb(40, 38, 38);
+	margin-bottom: 0px;
+}
+.all{
+	display: inline-flex;
+	align-items: center;
+	height: fit-content;
+	/* padding-left: 180px;
+	padding-right: 180px; */
+}
+.card-admin{
+	align-items: center;
+	text-align: center;
+	background-color: #3f3f46;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	/* border: #9ca3af solid; */
+	border-radius: 10px;
+	/* border: 1px solid #ccc; */
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 175px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+
+}
+
+.card-body {
+	font-size: 16px;
+  }
+
+h1{
+	font-size: 25px;
+	color: #fff;
+	text-align: center;
+}
+
+#submit1{
+	font-weight: bolder;
+	background-color: #f43f5e;
+	border-radius: 10px;
+	padding:10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#submit2{
+	font-weight: bolder;
+	background-color: #10b981;
+	border-radius: 10px;
+	padding:10px;
+}
+
+input[type="submit"].btn:hover {
+	border: 1px solid black;
+	color: aliceblue;
+  }
