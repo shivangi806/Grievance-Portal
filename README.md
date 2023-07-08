@@ -40,3 +40,7 @@ The Grievance Portal is an online tool that allows users to discuss and resolve 
 - [Shivangi Chandra](https://github.com/shivangi806) : Frontend+Backend
 - [Ayashika Gupta](https://github.com/Ayashika) : Frontend+Backend
 - [Aynansh Khandelwal](https://github.com/Aynansh) : Backend
+
+## Some snapshots of our website
+
+
