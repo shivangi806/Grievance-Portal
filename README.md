@@ -42,5 +42,13 @@ The Grievance Portal is an online tool that allows users to discuss and resolve 
 - [Aynansh Khandelwal](https://github.com/Aynansh) : Backend
 
 ## Some snapshots of our website
+![WhatsApp Image 2023-07-08 at 12 08 38](https://github.com/shivangi806/Grievance-Portal/assets/97466562/3655f891-dfd8-4009-a6c7-23921a633c53)
+
+![WhatsApp Image 2023-07-08 at 12 09 40](https://github.com/shivangi806/Grievance-Portal/assets/97466562/1a8101ec-9c48-4e2d-97f3-92dc14440d93)
+![WhatsApp Image 2023-07-08 at 12 09 59](https://github.com/shivangi806/Grievance-Portal/assets/97466562/1a72a115-0912-4be8-beed-71d10fa1f376)
+![WhatsApp Image 2023-07-08 at 12 10 36](https://github.com/shivangi806/Grievance-Portal/assets/97466562/71b1d7b1-7dfe-49f1-8477-961431873a45)
+![WhatsApp Image 2023-07-08 at 12 12 49](https://github.com/shivangi806/Grievance-Portal/assets/97466562/f9a62695-e154-42cf-b599-63685fa108fc)
+![WhatsApp Image 2023-07-08 at 12 13 51](https://github.com/shivangi806/Grievance-Portal/assets/97466562/25acfd77-b948-4a84-bc83-f2fe6e103294)
+
 
 
